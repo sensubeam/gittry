@@ -1,0 +1,2 @@
+CREATE db_hardik
+asdasdasd
